@@ -10,7 +10,6 @@ _"Ambil kendali balon udara Anda, jelajahi langit biru, kumpulkan koin emas, dan
 
 - **Exciting Gameplay**: Arahkan balon udara Anda melalui medan penuh aksi sambil mengumpulkan koin dan menghindari bahaya.  
 - **Stunning Graphics**: Latar langit cerah, balon warna-warni, dan animasi awan membuat game ini memanjakan mata.  
-- **High Scores**: Berlomba dengan teman-teman Anda untuk mencapai skor tertinggi!  
 - **Simple & Addictive**: Cocok untuk semua usia, cukup dimainkan namun sulit dikuasai.  
 
 ---

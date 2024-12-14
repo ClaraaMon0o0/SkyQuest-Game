@@ -19,10 +19,10 @@ _"Ambil kendali balon udara Anda, jelajahi langit biru, kumpulkan koin emas, dan
 
 1. Clone repository ini ke komputer Anda:  
    ```bash
-   git clone https://github.com/username/SkyQuest-Game.git
+   git clone https://github.com/ClaraaMon0o0/SkyQuest-Game.git
    ```
 2. Buka proyek di **NetBeans**, **IntelliJ**, atau IDE Java lainnya.  
-3. Jalankan file utama (`ProjectPBO.java`) untuk memulai permainan.  
+3. Jalankan file utama (`SkyQuest.java`) untuk memulai permainan.  
 4. Nikmati penerbangan seru Anda! 🎈  
 
 ---
